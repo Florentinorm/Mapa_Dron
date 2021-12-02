@@ -6,6 +6,7 @@
 </br>
 </br>
 </br>
+<p>Un servidor para front</p>
 <p>En directorio raiz</p>
 <p>ir al directorio front: cd front</p>
 <p>Intalación: npm i</p>
